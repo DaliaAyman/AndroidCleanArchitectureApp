@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Lasagne 1 API",
+    "description": "test desc",
+    "author": "Food Blogger1"
+  },
+  {
+  	"id": 2,
+    "name": "Lasagne 2 API",
+    "description": "test 2 desc",
+    "author": "Food Blogger2"
+  },
+  {
+  	"id": 3,
+    "name": "Lasagne 3 API",
+    "description": "test 3 desc",
+    "author": "Food Blogger3"
+  }
+]
