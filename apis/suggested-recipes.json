@@ -3,18 +3,114 @@
     "id": 1,
     "name": "Lasagne 1 API",
     "description": "test desc",
+    "photos": null,
+    "videos": null,
+    "isLiked": false,
+    "main_ingredient": {
+      "id": 1,
+      "name": "i 1",
+      "icon": "",
+      "level": 2
+    },
+    "ingredients": [
+      {
+        "id": 1,
+      "name": "i 1",
+      "icon": "",
+      "level": 2
+      },
+      {
+        "id": 2,
+      "name": "i 2",
+      "icon": "",
+      "level": 3
+      },
+      {
+        "id": 3,
+      "name": "i 3",
+      "icon": "",
+      "level": 3
+      }
+    ],
+    "tags": null,
+    "published_at": null,
+    "isSuggested": true,
     "author": "Food Blogger1"
   },
   {
   	"id": 2,
     "name": "Lasagne 2 API",
     "description": "test 2 desc",
+    "photos": null,
+    "videos": null,
+    "isLiked": false,
+    "main_ingredient": {
+      "id": 1,
+      "name": "i 1",
+      "icon": "",
+      "level": 2
+    },
+    "ingredients": [
+      {
+        "id": 1,
+      "name": "i 1",
+      "icon": "",
+      "level": 2
+      },
+      {
+        "id": 2,
+      "name": "i 2",
+      "icon": "",
+      "level": 3
+      },
+      {
+        "id": 3,
+      "name": "i 3",
+      "icon": "",
+      "level": 3
+      }
+    ],
+    "tags": null,
+    "published_at": null,
+    "isSuggested": true,
     "author": "Food Blogger2"
   },
   {
   	"id": 3,
     "name": "Lasagne 3 API",
     "description": "test 3 desc",
+    "photos": null,
+    "videos": null,
+    "isLiked": false,
+    "main_ingredient": {
+      "id": 1,
+      "name": "i 1",
+      "icon": "",
+      "level": 2
+    },
+    "ingredients": [
+      {
+        "id": 1,
+      "name": "i 1",
+      "icon": "",
+      "level": 2
+      },
+      {
+        "id": 2,
+      "name": "i 2",
+      "icon": "",
+      "level": 3
+      },
+      {
+        "id": 3,
+      "name": "i 3",
+      "icon": "",
+      "level": 3
+      }
+    ],
+    "tags": null,
+    "published_at": null,
+    "isSuggested": true,
     "author": "Food Blogger3"
   }
 ]
